@@ -1,2 +1,2 @@
 ### Github Action to push,build docker image to dockerhub
-### Git Push 
+### Deploy to kubernetes cluster 
